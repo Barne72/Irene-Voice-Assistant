@@ -17,7 +17,7 @@ def start(core:VACore):
         "require_online": True,
 
         "default_options": {
-            "apiKey": "", # get at https://openweathermap.org/
+            "apiKey": "1aac11ee54ac3bd8a3f880c2a1b47884", # get at https://openweathermap.org/
 
             "city": "Moscow",
             "country": "RU",
