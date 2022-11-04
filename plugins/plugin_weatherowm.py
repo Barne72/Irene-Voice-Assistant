@@ -19,8 +19,8 @@ def start(core:VACore):
         "default_options": {
             "apiKey": "1aac11ee54ac3bd8a3f880c2a1b47884", # get at https://openweathermap.org/
 
-            "city": "Moscow",
-            "country": "RU",
+            "city": "Aktobe",
+            "country": "kz",
             "lon": 0, # will be auto-calculated base on city. Or you can fill it manual
             "lat": 0,
         },
